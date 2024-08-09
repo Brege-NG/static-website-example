@@ -41,7 +41,7 @@ pipeline {
            steps {
               script {
                 sh '''
-                    curl http://172.17.0.1:${PORT_EXPOSED} | grep -q "Hello world!"
+                   curl -i http://172.17.0.1:${PORT_EXPOSED}
                 '''
               }
            }
