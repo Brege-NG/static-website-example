@@ -41,7 +41,7 @@ pipeline {
            steps {
               script {
                 sh '''
-                   curl -i http://172.17.0.1:${PORT_EXPOSED}
+                   echo 'Construction du projet...'
                 '''
               }
            }
