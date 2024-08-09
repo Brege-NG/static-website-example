@@ -1,6 +1,7 @@
 Static Website Example
 ----------------------
 
+<a href='https://ip10-0-19-4-cqr1erj9jotg009eae20-8080.direct.docker.labs.eazytraining.fr/job/my_project/'><img src='https://ip10-0-19-4-cqr1erj9jotg009eae20-8080.direct.docker.labs.eazytraining.fr/buildStatus/icon?job=my_project'></a>
 To be used with Cloud Academy labs.
 
 
